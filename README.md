@@ -1,4 +1,4 @@
-# Blockchain Based Student Attendance App
+# Scholar-Attendance-DApp
 
 This is a Decentralized Application (D-App) developed in hardhat environment in Nodejs.
 
